@@ -1,2 +1,2 @@
 # 2048-in-Java
-Clone of 2048 written in Java. Uses Std libraries to visualize the board and tiles.
+A clone of 2048 written in Java that uses standard libraries to visualize the board and tiles.
